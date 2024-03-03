@@ -14,6 +14,7 @@ Get it here: [process-scheduling-solver.boonsuen.com](https://process-scheduling
 - Round-Robin / RR
 - Priority (non-preemptive)
 - Priority (preemptive)
+- LJF [WIP]
 
 ## Built with
 
